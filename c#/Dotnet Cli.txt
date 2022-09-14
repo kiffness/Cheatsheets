@@ -1,0 +1,18 @@
+Dotnet Cli cheatsheet
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Generate a new webapi project
+//*************************************************************************************//
+//**  Run the below commands in order to fully generate a new dotnet webapi project  **//
+//*************************************************************************************//
+
+dotnet new webapi
+
+dotnet new sln
+
+dotnet sln add <projectname>.csproj
+
+dotnet new gitignore
+
+
+
